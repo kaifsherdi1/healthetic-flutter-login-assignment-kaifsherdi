@@ -8,7 +8,7 @@ A clean, modern, and responsive Flutter Login Application built as part of the H
 | --- | --- |
 | ![Idle](docs/screenshots/idle.png) | ![Validation](docs/screenshots/validation.png) |
 
-*(Note: These are mockups. Replace with actual device screenshots if needed.)*
+
 
 ## 🚀 Features
 - **Splash Screen**: Branded entry with locked portrait orientation.
@@ -45,8 +45,6 @@ Follow these steps to run the application locally:
    flutter run
    ```
 
-## 🎥 Demo Video
-[Click here to view the demo video](https://github.com/kaifsherdi1/healthetic-flutter-login-assignment-kaifsherdi) *(Replace with actual link)*
 
 ## 🧩 Approach & Methodology
 - **Clean Architecture**: The project follows a modular structure (`constants`, `widgets`, `screens`) to ensure maintainability and high code readability.
@@ -68,4 +66,4 @@ Following these steps ensures a logical development flow:
 7. `Updated README and documentation`
 
 ---
-Developed by Antigravity (Assistant)
+
